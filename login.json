@@ -1,0 +1,7 @@
+{
+  "api_key": "_FILL_API_KEY_HERE_",
+  "api_secret": "_FILL_API_SECRET_HERE_",
+  "username": "_USERNAME_",
+  "password": "_PASSWORD_",
+  "pin": "_2FA_PIN_"
+}
